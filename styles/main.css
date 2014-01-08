@@ -20,6 +20,17 @@ h1, h2, h3, h4, h5, h6 {
     color: hsl(10, 70%, 20%);
 }
 
+header h1 {
+    font-size: 70px;
+    line-height: 0.5;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+header .signature {
+    font-size: smaller;
+}
+
 aside {
     float: left;
     width: 20em;
