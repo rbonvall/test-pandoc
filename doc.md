@@ -1,5 +1,5 @@
 ---
-title: 'Hola mundo'
+title: Hola mundo
 author: Roberto Bonvallet
 date: January 7th, 2014
 language: es

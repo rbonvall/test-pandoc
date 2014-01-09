@@ -1,5 +1,5 @@
 ---
-title: 'Hola mundo'
+title: La bella y graciosa moza marchose a lavar la ropa, la mojó en el arroyuelo y cantando la lavó, la frotó sobre una piedra, la colgó de un abedul
 author: Roberto Bonvallet
 tags: [test, pandoc]
 date: 2014-01-08
